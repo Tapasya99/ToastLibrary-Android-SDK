@@ -1,4 +1,4 @@
-package com.anuj.shrikantkale;
+package com.shrikantkale.anuj;
 
 import org.junit.Test;
 
