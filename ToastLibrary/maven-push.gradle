@@ -21,7 +21,7 @@ class Global {
     static def POM_NAME = 'ToastLibrary'
     static def POM_ARTIFACT_ID = 'ToastLibrary'
     static def POM_PACKAGING = 'aar'
-    static def VERSION_NAME = '1.0'
+    static def VERSION_NAME = '1.0.2'
 
     static def GROUP_ID = 'com.shrikantkale.anuj'
     static def POM_DESCRIPTION = 'Toast Library'
